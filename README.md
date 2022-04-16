@@ -1,5 +1,8 @@
-# Hackerrank
+# Hackerrank Java
 
-All Puzzles of Hackerrank will be solved here.
+This page contains all the solution files for Hackerrank Java Puzzle/challenges. 
 
-If you are looking to become a Software Developer Engineer, go through all solutions thoroughly.
+All the solutions are made with Java 18 in IntelliJ IDE. 
+
+- To download latest JDK [Click Here](https://www.oracle.com/java/technologies/downloads/)
+- To download IntelliJ IDE [Click Here](https://www.jetbrains.com/idea/)
